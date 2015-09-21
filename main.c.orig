@@ -8,6 +8,9 @@ int main() {
     printf("Hello World!");
     hkjdsaflalkdfjl
     return 0;
-    
+<<<<<<< HEAD
  dafdfaf
+=======
+
+>>>>>>> ext2
 }
