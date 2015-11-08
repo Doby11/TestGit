@@ -24,7 +24,10 @@ int main() {
     
     
     cghfhgffgfhgfhfhfg
-    dsfadsfafsfdafadsfdasfadsfsfdsaf
+    if (i!=1) {
+        i++;
+    }  dsfadsfafsfdafadsfdasfadsfsfdsaf
+
 }
 
 
