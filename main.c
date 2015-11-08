@@ -10,4 +10,15 @@ int main() {
     return 0;
     sdskfhsdhfkdshfskdfhdskhfksdhdskhfkds
  dafdfaf
+    
+    
+    typedef NS_ENUM(NSUInteger, sdf
+                    
+                    sf
+                    
+                    ) {
+        k,
+        k,
+        k   ,
+    };
 }
