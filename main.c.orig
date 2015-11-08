@@ -8,9 +8,30 @@ int main() {
     printf("Hello World!");
     hkjdsaflalkdfjl
     return 0;
-<<<<<<< HEAD
+    sdskfhsdhfkdshfskdfhdskhfksdhdskhfkds
  dafdfaf
+    
+    
+    typedef NS_ENUM(NSUInteger, sdf
+                    
+                    sf
+                    
+                    ) {
+        k,
+        k,
+        k   ,
+    };
+    
+    
+<<<<<<< HEAD
+    cghfhgffgfhgfhfhfg4478
 =======
+    cghfhgffgfhgfhfhfg5
+>>>>>>> a40591b821fa7246c2aee7290676de08ca31f3fd
+    if (i!=1) {
+        i++;
+    }  dsfadsfafsfdafadsfdasfadsfsfdsaf
 
->>>>>>> ext2
 }
+
+
